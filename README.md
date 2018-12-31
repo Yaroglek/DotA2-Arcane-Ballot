@@ -1,2 +1,3 @@
-# bare-box
-Truffle Box for a bare-minimum Truffle project (`truffle init`)
+# 区块链原理与技术 期末项目
+# 16340299 赵博然
+# DotA2至宝投票模拟
